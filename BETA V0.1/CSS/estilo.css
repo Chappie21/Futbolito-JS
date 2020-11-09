@@ -1,0 +1,9 @@
+div{
+    width: 1200px;
+    height: 800px;
+    margin: auto;
+}
+
+#lienzo{
+    border: solid blue 2px;
+}
