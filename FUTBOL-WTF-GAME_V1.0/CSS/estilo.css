@@ -1,0 +1,14 @@
+div{
+    width: 1600px;
+    height: 900px;
+    margin: auto;
+}
+
+body{
+    background-color: black;
+}
+
+#lienzo{
+    border: solid white 10px;
+    background-color: green;
+}
